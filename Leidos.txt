@@ -1,0 +1,103 @@
+5/26/25
+preprep for job
+reviewed all of the tasks mundy gave us (a lot of git though)
+rubber duckyd individual projects so we could understand our own topics better and also to share knowledge on what we might be doing
+
+5/27/25
+got computers
+set up workstations in intern room (there are so many interns LOL)
+short tour on the way to spine (super cool looking hallway)
+ai lab (lots of ppl)
+lunch with ai branch at viet huong (yummy food, purposely split us up LOL but still very fun, mundy is very cool and knowledgeable on a bunch of random things, I would very much enjoy book club with mundy)
+onboarding stuff (downloading many softwares)
+another tour with mundy (bro had a shopping list of expectations for us but we got this trust, book club, journal club, presentation practice, blog)
+back to intern room, doing training until time to leave
+went to sams club
+cooked dinner (pasta)
+prepped basics of blog by drawing from an old website I formatted the year before
+first time genuinely using git for a project (which was blog)
+
+5/28/25
+more training
+meeting with mundy to go over projects (bro rlly talks a lot, persistent homology so cool, using topological data analysis to predict behaviors of aircraft/aerospace vehicles)
+lunch was leftover pasta
+came back and researched project, read a couple papers then tried to read the documentation for gudhi to try to make/find/start and example code and practice
+another tour with mundy to talk to new people (sgm is super cool, we talked with that guy for forever, we also met other people but didn't talk as long, bunch of people who started in aeroe then ended up in the autonomy & ai branch, some web dev ppl, some modeling ppl, scm also cool but sgm we talked with the most)
+figured out time sheet sorta and talked about plans for the weekend with mundy
+have plans to set up website a bit more
+left and cooked dinner (fried rice + teriyaki chicken)
+no studying tn
+
+5/29/2025
+8:15 came in to work, started retrying the gudhi figuring out, eventually got it to work, learning how to use a venv, learning all the functions and documentation of gudhi
+11:15 lunch time
+11:45 back to work, starting to read papers, went and got YubiKey, reading papers about how tda works
+4:00 mundy came in and talked to me and parker about how our projects are going, I think he's pretty happy with us, I was able to figure out how to graph barcode diagrams and persistent homology diagrams, so I think he was pleasantly surprised, told him I couldn't figure out how to graph the epsilon and he said he personally used a package to do that but I could also try to do it myself using matplotlib to understand it better as a whole, I think if I'm able to do it it'd be really good for me and look good for my skills as a programmer/learner so I really hope I can impress him, also gave an update on blog, mundy will check in on us tomorrow and I just need to get my draft info down and draft website stuff, plan to finish up draft website tomorrow morning before he checks in on me then will have a meeting with maco people virtually
+mundy sent a text later tn about what events we should do over the weekend and mundy is very cool
+
+
+Week 1: 5/26-5/30
+
+Main Overview
+- living in Huntsville
+- onboarding
+- setting up computers
+- training
+- introduction to the project
+- learning new math (PH TDA) and coding (Git, GUDHI) topics
+- meeting many new people
+- coding with GUDHI
+- reading up on PH TDA literature (to learn what has been/can be done)
+
+My first week at Leidos Dynetics has been a lot of new experiences--new environment, new people, new setups, and new topics. I have had research positions and other jobs in the past, but Leidos Dynetics definitely has the most interactive (and most interesting) first week of them all.
+
+whirlwind of onboarding, technical setup, exploration, and exciting new topics. From Git crash courses to persistent homology, there's been no shortage of learning opportunities—or interesting people to meet.
+
+We kicked off the week with preparation, reviewing everything Mundy had assigned, then quickly moved into workstation setups and software installations. The AI branch welcomed us with a fun lunch at Viet Huong, where we were intentionally split up to meet new people (very clever, very effective). It was a great way to get a feel for the culture—collaborative, curious, and a little chaotic in the best way.
+
+One major focus has been understanding our individual projects. I’m diving into Topological Data Analysis (TDA) to help predict satellite behavior—yes, it’s as cool as it sounds. The gudhi library has been my main playground, and after some persistence, I was able to visualize barcode and persistence diagrams. I’m hoping to extend that by plotting epsilon balls manually, just to deepen my understanding and improve my coding skills.
+
+There’s also a creative side to this experience: I’ve started working on a personal blog to document the internship, inspired by a site I built last year. I’ll be sharing both technical work and reflections throughout the summer.
+
+Mundy’s energy and mentorship have really set the tone—he’s full of ideas, always connecting us to interesting people, and seems genuinely invested in helping us grow. Can confirm: I’d 100% join a book club if he started one.
+
+Looking forward to finishing up my blog draft and diving deeper into project work next week.
+
+Daily Recap:
+5/26/25 (arrival)
+- Arrived at Huntsville and set up the AirBNB
+- Re-reviewed tasks and resources Mundy provided
+- Explored Git
+- Rubber duck knowledge sharing of individual projects for better understanding
+
+5/27/25 (First full day)
+- Set up computers in the intern room (2 monitors!)
+- Short tour on the way to the spine and AI lab
+- Lunch with the AI branch at Viet Huong
+- Onboarding tasks and software downloads
+- Tour 2.0 with Mundy (talked about tasks for the summer: blog, journal club, and presentations)
+- Onboarding training back in the intern room
+- Sam’s Club run and pasta for dinner
+- Prepped the blog using old website formatting
+- Practicing Git on the blog
+
+5/28/25
+- More training in the morning
+- Project meeting with Mundy about persistent homology and Parker's project on the chatbot
+- Leftover pasta lunch
+- Researched PH coding and literature
+- Tried using GUDHI, started playing with sample code
+- Another Mundy-led tour—met people from RL, web dev, modeling, and more
+- Sorted out timesheets and talked weekend plans with Mundy
+- Fried rice and teriyaki chicken for dinner
+
+5/29/25
+- Resumed GUDHI exploration
+- Praticing venvs and learning GUDHI documentation
+- Successfully plotted barcode & persistent homology diagrams for random points and a 2D torus
+- Continued reading papers on TDA
+- Talked to Mundy about project progress
+- Attempting to plot epsilon manually with matplotlib for practice
+- Plan to have website draft by 5/30
+- Ginger chicken rice for dinner
+- Mundy texted about possible weekend activities
