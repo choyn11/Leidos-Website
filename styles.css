@@ -20,6 +20,10 @@ a {
     color: #ffffff;
 }
 
+li {
+    color: #ffffff;
+}
+
 #navigationToggle{
     width: 120;
     z-index: 999;
@@ -44,17 +48,26 @@ a {
 .navigationContainer.active{
     display: flex;
     z-index: 999;
-    width: 100%;
+    width: 25%;
     background: #000;
     border-style: solid;
     border-color: #ffffff;
-    border-radius: 40px;
+    border-radius: 40px;   
     animation: fadeIn .25s;
+}
+
+.navigationContainer.closing{
+    animation: fadeOut .25s forwards;
 }
 
 @keyframes fadeIn {
     0% { opacity: 0; }
     100% { opacity: 1; }
+}
+
+@keyframes fadeOut {
+    0% { opacity: 1; }
+    100% { opacity: 0; }
 }
 
 .navigationContainer{
@@ -130,10 +143,11 @@ a {
 }
 
 #face{
-    width: 80%;
+    width: 70%;
     /*rotate: 2deg;*/
     position: relative;
     z-index: -1;
+    margin-left: 15%
 }
 
 .footer{
@@ -145,35 +159,35 @@ a {
 }
 
 .bounce{
-    animation: bounce 4s ease infinite;
-}
-/*
-@keyframes bounce{
-    0% { transform:translateY(2%); }
-    50% { transform:translateY(-2%); }
-    100% { transform:translateY(2%); }
+    animation: bounce 6s ease infinite;
 }
 
 .bounceOther{
-    animation: bounce 5s ease infinite;
+    animation: bounce 4s ease infinite;
 }
 
 @keyframes bounce{
-    0% { transform:translateY(2%); }
-    50% { transform:translateY(-2%); }
-    100% { transform:translateY(2%); }
+    0% { transform:translateY(2%);}
+    50% { transform:translateY(-2%);}
+    100% { transform:translateY(2%);}
 }
 
-.spin{
-    animation: spin 60s infinite linear;
-}
-
-@keyframes spin{
-    from{
-        transform: rotate(0deg);
-    }
-    to{
-        transform: rotate(360deg);
-    }
+/*
+@keyframes bounceSpin{
+    0% { transform:translateY(100%); transform: rotate(0deg);}
+    50% { transform:translateY(-100%); transform: rotate(180deg);}
+    100% { transform:translateY(100%); transform: rotate(360deg);}
 }
 */
+
+.blogPost{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    width: 80%;
+    margin: 0% 10% 4% 10%;
+}
+
+.postContainer{
+    font-size: 150%;
+}
