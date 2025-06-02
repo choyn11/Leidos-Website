@@ -58,4 +58,9 @@
 
 6/2/25
 - 8:00 working on website
-- 8:30 reading over mundy's notes for project
+- 8:30 reading over mundy's notes for project and working on circle --> square ph tda side project
+- 10:30 talked with people supervising project
+- 11:00 worked more on circle --> square ph tda + gif side project
+- 11:45 lunch
+- 12:15 came back and worked more on the circle --> square ph tda + gif side project, experimented with matplotlib animate and using ArtistAnimate and FuncAnimate
+- 5:00 left work
