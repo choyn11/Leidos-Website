@@ -155,7 +155,7 @@ li {
     display: flex;
     justify-content: space-evenly;
     flex-wrap: wrap;
-    font-size: 150%;
+    font-size: 125%;
 }
 
 .bounce{
