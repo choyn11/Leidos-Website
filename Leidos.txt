@@ -65,7 +65,7 @@
 - 12:15 came back and worked more on the circle --> square ph tda + gif side project, experimented with matplotlib animate and using ArtistAnimate and FuncAnimate
 - 17:00 left work
 - spaghetti for dinner
-- plane fitness
+- planet fitness
 
 6/3/25
 - 8:00 working on project powerpoint, looking back over circle --> square ph gif code
@@ -77,3 +77,49 @@
 - 15:00 now working on generating data for a classifier that can tell when a circle with noise is no longer a circle/broken, will eventually start working on the classifier later
 - 15:30 finished making a function to create a circle with noise in polar and cartesian coordinates, working on making a stretchy circle
 - 17:00 left work
+- tacos for dinner
+- just dance
+
+6/4/25
+- 8:00 working on stretchy circle
+- 9:30 talked with Mundy about project
+- 9:45 intern donut meet and greet
+- 10:00 stretchy circle and far away circle
+- 12:15 lunch
+- 12:45 generating data with circle functions
+- 14:30 TEAMS meeting about PH TDA
+- 15:30 generating data with circle functions
+- 17:00 100 point clouds finished
+- burgers for dinner
+- planet fitness
+
+6/5/25
+- 8:00 catchup on Mundy assignments (reading a paper on information theory, finishing up the presentation, meeting a new person, and reading up on the Confluence page for my project)
+- 9:00 facilities tour
+- 10:45 reading Mundy paper
+- 11:00 lunch and learn
+- 12:00 reading Mundy paper
+- 13:00 presentation
+- 13:30 talked to new people (austin mcshan)
+- 14:00 sending circles to Mundy and writing 500 circles to a file, worked on presentation
+- 17:00 left work
+- fried rice + teriyaki chicken for dinner
+- pickleball + culvers
+
+6/6/2025
+- 8:00 generated 500 circles
+- 8:15 read paper and practiced presentation
+- 11:30 pizza
+- 12:15 practiced presentation
+- 14:00 journal club cancelled, only presented projects
+- 15:45 left work
+- fried rice + teriyaki chicken for dinner
+- gaming, lala land
+
+6/7/2025
+- slept in all day
+- cooked Curry
+
+6/8/2025
+- farmer's market and grocery run
+- leftovers for dinner, lego movie
