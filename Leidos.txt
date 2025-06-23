@@ -212,4 +212,7 @@
 
 6/21/2025
 - 8:00 website
+- 9:30 updating confluence page
 - 10:30 va meeting
+- 11:00 lunch
+- 11:30 pca, diff normalizations, train classifier on clusters
