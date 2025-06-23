@@ -174,5 +174,42 @@
 
 6/16/2025
 - 8:00 working on website
-- 9:30 
-- 11:00 lunch
+- 9:30 proofreading daniel's website
+- 10:00 mundy talk
+- 10:30 va meeting
+- 11:30 lunch
+- 12:00 clustering
+- 13:00 mundy bootcamp
+- 15:00 ginny meeting
+- 17:30 left work
+
+6/17/2025
+- 8:00 clustering
+- 11:45 mundy lunch
+- 13:00 clustering
+- 15:00 ginny meeting
+- 15:30 generating data instead of using satellite data to train a classifier to detect anomalous behavior
+- 17:30 left work
+
+6/18/2025
+- 8:00 anomalous classifier
+- 11:00 lunch and learn
+- 12:00 anomalous classifier
+- 17:00 left work
+
+6/19/2025
+- 8:00 anomalous classifier
+- lunch
+- 15:00 lowe mill
+
+6/20/2025
+- 8:00 reading info theory paper
+- 9:00 presentation practice + P vs NP presentation
+- 10:30 info theory paper
+- 11:30 lunch
+- 12:00 clustering
+- 3:00 talked to Keith about Gremlins
+
+6/21/2025
+- 8:00 website
+- 10:30 va meeting
