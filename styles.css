@@ -191,3 +191,12 @@ li {
 .postContainer{
     font-size: 125%;
 }
+
+.kickball{
+    width: 100%;
+    height: auto;
+}
+
+.postContainer{
+    width: 100%;
+}
