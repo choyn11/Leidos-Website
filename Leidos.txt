@@ -200,7 +200,7 @@
 6/19/2025
 - 8:00 anomalous classifier
 - lunch
-- 15:00 lowe mill
+- 15:00 left work, lowe mill
 
 6/20/2025
 - 8:00 reading info theory paper
@@ -208,11 +208,182 @@
 - 10:30 info theory paper
 - 11:30 lunch
 - 12:00 clustering
-- 3:00 talked to Keith about Gremlins
+- 3:00 talked to Keith about Gremlins, left work
 
-6/21/2025
+6/23/2025
 - 8:00 website
 - 9:30 updating confluence page
 - 10:30 va meeting
+- 11:00 pca, diff normalizations
+- 11:45 lunch
+- 12:15 pca, diff normalizations, proofreading blog posts, ai excel worksheet
+- 17:00 left work
+
+6/24/2025
+- 8:00 ai excel worksheet
+- 8:30 presentation prep
+- 11:00 intern lnl
+- 12:00 presentation prep
+- 13:30 ginny check in
+- 14:30 reading paper
+- 17:00 left work
+
+6/25/2025
+- 8:00 functionizing retrieving data and analyzing it
 - 11:00 lunch
-- 11:30 pca, diff normalizations, train classifier on clusters
+- 11:30 reading paper
+- 13:00 leidos connect
+- 14:30 functionizing retrieving data and analyzing it, reading papers
+- 16:45 left work
+
+6/26/2025
+- 8:00 recording anomalies and id numbers
+- 10:30 va meeting
+- 11:00 chris birthday lunch
+- 12:15 presentation, reading papers, meeting a new person
+- 17:00 left work
+
+6/27/2025
+- 8:00 working on week presentation
+- 11:30 lunch
+- 12:00 working on week presentation
+- 13:00 mundy meeting (this week update, excel mlp assignment, mundy boot camp)
+- 14:00 reading news articles
+- 15:00 journal club
+
+6/30/2025
+- 8:00 reading news articles
+- 10:30 maco meeting
+- 11:30 lunch
+- 12:00 reading news articles and cleaning excel files
+- 16:00 left work, dinner
+- 18:00 working on cleaning data and inputting it through functions, training/testing classifier
+
+7/1/2025
+- 8:00 classifier + data stuff
+- 8:45 cnn
+- 10:15 classifier + data stuff
+- 11:00 lunch
+- 11:30 classifier + data stuff
+- 15:30 left work, dinner
+- 17:00 cnn, classifier + data stuff
+- 21:15 stop working
+
+7/2/2025
+- 8:00 setting up am stuff, had to get help from manoh, emily, and riley
+- 12:30 lunch
+- 13:00 set up am stuff, reduced padding around clustering
+- 15:30 left work, dinner
+- 17:00 set up am stuff, reduced padding around clustering
+
+7/3/2025
+- figuring out persistent homology with simulation
+
+7/7/2025
+- 8:00 figuring out how to use/set up scenarios in simulation with help from Joel and Dan
+- 10:30 maco meeting
+- 11:30 lunch
+- 12:00 figuring out how to use/set up scenarios in simulation with help from Joel and Dan
+- 14:00 section meeting
+- 15:00 sentenceTransformers
+- 17:00 left work
+
+7/8/2025
+- 8:00 cleaning up code
+- AM scenarios, integrity flash
+
+7/9/2025
+- 8:00 transformer architecture
+- 11:00 lnl with lee about AI projects at leidos
+- 12:00 cleaning code
+- 13:30 left work
+- 14:00 cleaning code
+- 16:30 figure out how to create scenarios in AM
+- 16:45 pick up daniel
+
+7/10/2025
+- 8:00 transformers
+- 10:30 va meeting
+- 11:00 
+- 17:00 left work
+- 17:30 kickball
+
+7/11/2025
+- figured out AM the whole day
+
+7/14/2025
+- 8:00 figuring out how to export AM data as a json file
+- 9:30 mundy meeting
+- 10:30 va meeting
+- 11:00 figuring out how to export AM data as a json file
+- 11:45 lunch
+- 12:15 plotting barcode plots of AM scenario data, messing with normalization
+- 16:30 read Mundy papers
+- 17:00 left work
+- 20:00 read Mundy papers
+- 22:00 stopped
+
+7/15/2025
+- 8:00 plotting barcode plots of AM scenario data
+- 8:45 sampling more anomalous events and plotting their persistence barcodes to compare before, transition, and after
+- 10:00 transformer for circle to square transformation
+- 11:30 lunch
+- 12:00 transformer for circle to square transformation
+- 17:00 left work
+- 20:15 website/blog
+- 21:30 stopped
+
+7/16/2025
+- mundy talk
+- blog posts
+- presentations
+- manoh talk
+
+7/17/2025
+- poster presentation
+- va meeting
+- parker info transfer
+
+7/18/2025
+- met two people (miranda sisk and greg stenberg)
+- poster presentation
+- neuromorphic computing
+- ruby falls
+- magic
+
+7/19/2025
+- woke up late
+- mexican restaurant
+- aquarium
+- magic
+
+7/20/2025
+- pickleball
+- mad hatter tea place
+- cathedral caverns
+
+7/21/2025
+- va meeting
+- presentation
+- parker info transfer
+- normalization and interpolation fixing
+
+7/22/2025
+- presentation making
+- perturb real data to generate train and test for classifier
+
+7/23/2025
+- perturb real data to generate train and test for classifier
+
+7/24/2025
+- poster presentation
+- perturb real data to generate train and test for classifier
+- oral presentation prep
+
+7/25/2025
+- oral presentation
+- mundy lunch
+- journal club about turing completeness and origami
+
+7/28/2025
+- blog work, messaging ginny
