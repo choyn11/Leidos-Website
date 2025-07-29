@@ -1,7 +1,7 @@
 .earth {
     background: #0e0f3b;
     font-family: Ubuntu, "times new roman", times, roman, serif;
-    font: #ffffff;
+    color: #ffffff;
 }
 
 h1 {
@@ -27,7 +27,6 @@ li {
 
 ul {
     color: #ffffff;
-    font: #ffffff;
 }
 
 #navigationToggle{
