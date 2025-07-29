@@ -25,6 +25,10 @@ li {
     color: #ffffff;
 }
 
+ul {
+    color: #ffffff;
+}
+
 #navigationToggle{
     width: 120;
     z-index: 999;
