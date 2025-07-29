@@ -136,9 +136,9 @@
 
         <p>While I'd love to go into depth into all of the computers below, I'm resorting to listing them out and giving an extremely brief description of each.</p>
 
-        <ul>- <a href="https://en.wikipedia.org/wiki/Antikythera_mechanism">Antikythera Mechanism</a>: Considered the first known mechanical analogue computer. Created in ~100 BCE by the ancient Greeks. Tracked the Sun and Moon, predicted astronomical events, indicated dates of athletic games like the Olympics.</ul>
+        <ul>- <a href="https://en.wikipedia.org/wiki/Antikythera_mechanism">Antikythera Mechanism</a>: Considered the first known mechanical analogue computer. Created in ~100 BCE by the ancient Greeks. Tracked the Sun and Moon, predicted astronomical events, and indicated dates of athletic games like the Olympics.</ul>
 
-        <ul>- <a href="https://www.youtube.com/watch?v=IgF3OX8nT0w">Tide-predicting Machines</a>: I couldn't possibly explain or visualize this better than Veritasium. First designed in 1872 by William Thompson. Does Fourier analysis of current tides then sums the sinusoidal functions to predict future tides.</ul>
+        <ul>- Tide-predicting Machines: I couldn't possibly explain or visualize this better than <a href="https://www.youtube.com/watch?v=IgF3OX8nT0w">Veritasium</a>. First designed in 1872 by William Thompson. Does Fourier analysis of current tides then sums the sinusoidal functions to predict future tides.</ul>
 
         <ul>- <a href="https://www.analogmuseum.org/english/examples/vehicle_simulation/">Vehicle Suspension Systems</a>: Represents mechanical suspension systems (spring, mass, dashpot) as RLC circuits (resistor, inductor, capacitor) since it's expensive and difficult to fabricate, modify, and evaluate the systems in real life.</ul>
 
@@ -150,8 +150,18 @@
 
         <img src="./Images/xkcd_division_notation.png"/>
 
-        <p>While I'm sure it's not a trait unique to this internship, I enjoyed prioritizing the accessibility of my project while working on my presentations. It's a nice change of pace from research competitions filled with people trying to go far but instead landing in the pitfall of buzzwords and overcomplicated terminology. I know I've done the same in the past (and have kind of been doing the same with my blog for time and security reasons), but I put in a lot of effort with my presentations to make sure my audience understood all of the topics I brought up; I think it's been a great character arc.</p>
+        <p>While I'm sure it's not a trait unique to this internship, I enjoyed prioritizing the accessibility of my project while working on my presentations. It's a nice change of pace from research competitions filled with people trying to go far but instead landing in the pitfall of buzzwords and overcomplicated terminology. I know I've done the same in the past (and have kind of been doing the same with my blog for time and security reasons), but I put in a lot of effort into my presentations to make sure my audience understood all of the topics I brought up; I think it's been a great character arc.</p>
+      </div>
+    </div>
 
+    <!-- Blog Post 9 -->
+    <div class="blogPost" id = "post9">
+      <div class="postContainer">
+        <h1>Week 9 Recap: 7/21–7/25</h1>
+
+        <p>This week was just as busy as the last; in replacement of making presentations, I spent a lot of my time practicing them. In true "Mundy Intern" fashion, the three of us worked through our posters and slideshows with Mundy to make sure our visuals and text were up to standards. We also practiced presenting and answering questions, even going so far as to prepare extra slides for common topics people might ask about. I think it paid off in the end--I got a few compliments about the flow and comprehensibility of the presentation, which is a pretty good indicator of the efficacy of Mundy's bootcamp. Of course, you need at least three samples to do statistical analysis. Parker and Daniel are scheduled to present next week, so if their presentations also go well maybe then we can draw conclusions (for clarification reasons, this is a joke).</p>
+
+        <p>Outside of the intern presentations, I spent some time working on increasing the size of my dataset. Like I mentioned before, I had to find the anomalous events in my data by reading through news articles. This process, as you can probably imagine, takes a lot of time and effort. To get more data without combing through the internet again, I worked on generating data by normally perturbing the data I already had. In other words, I added small variations to the points at each timestep to create events similar to the real data but still different. By training the classifier on this generated data labeled with clustering methods, I could then validate the entire pipeline with the original, real event labeled by hand. Next week, I plan to work on visualizing the generated data to make sure it's realistic, and I also plan work on verifying the accuracy of the pipeline.</p>
       </div>
     </div>
 
