@@ -394,4 +394,62 @@
 - kayaking
 
 7/28/2025
-- blog work, messaging ginny
+- blog work
+- va meeting
+- ginny meeting
+
+7/29/2025
+- blog work
+- intern lunch
+- blog work
+- visualizing generated data
+
+7/30/2025
+- visualizing generated data
+- intern lnl
+- check clustering/replace with different methods of identifying data automatically (matrix profile, wasserstein distance, ginny code)
+
+7/31/2025
+- intern presentation practice
+- va meeting
+- analogue presentation
+
+8/1/2025
+- intern presentations
+- intern lunch
+- parker stranded
+- resume update
+- linkedin update
+
+8/2/2025
+- mushlyn dinner
+
+8/4/2025
+- branch meeting/potluck
+- resume update
+- va meeting
+
+8/5/2025
+- new labeling method implemented
+- defense intern briefing
+
+8/6/2025
+- clean/doc code
+- commit code
+- rocket launch
+- ginny meeting
+
+8/7/2025
+- va meeting
+- clean/doc code
+- commit code
+- blog post
+- parker presentation
+
+8/8/2025
+- website
+- meet people
+- transfer knowledge
+- blog post
+- leaving linkedin post
+- recrawl
